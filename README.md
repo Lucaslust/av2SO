@@ -5,7 +5,7 @@
 
 ---
 
-## 📋 Descrição
+##  Descrição
 
 O simulador recebe uma cadeia de referências de páginas e o número de quadros de memória disponíveis, executando os quatro algoritmos e exibindo o número de faltas de página de cada um.
 
@@ -20,7 +20,7 @@ O simulador recebe uma cadeia de referências de páginas e o número de quadros
 
 ---
 
-## 🖥️ Pré-requisitos
+##  Pré-requisitos
 
 - **Java JDK 11 ou superior**  
   Download: https://adoptium.net
@@ -33,7 +33,7 @@ javac -version
 
 ---
 
-## ▶️ Como executar
+##  Como executar
 
 ### Windows
 
@@ -63,7 +63,7 @@ java -cp out simulador.Main --terminal
 
 ---
 
-## 🗂️ Estrutura do projeto
+##  Estrutura do projeto
 
 ```
 simulador/
@@ -99,7 +99,7 @@ simulador/
 
 ---
 
-## 📊 Resultado esperado (sequência padrão)
+##  Resultado esperado (sequência padrão)
 
 Sequência: `7 0 1 2 0 3 0 4 2 3 0 3 2 1 2 0 1 7 0 1` | Quadros: `3`
 
@@ -115,11 +115,11 @@ O **FIFO** apresenta o pior desempenho por não considerar o histórico de acess
 
 ---
 
-## 👥 Autores
+##  Autores
 
 - Lucas Lustosa  
 - João Pedro Alexandrino Brasil
 
 **Disciplina:** Sistemas Operacionais  
-**Professor:** [Nome do Professor]  
+**Professor:** [Izequiel]  
 **Universidade de Fortaleza — UNIFOR, 2026**
